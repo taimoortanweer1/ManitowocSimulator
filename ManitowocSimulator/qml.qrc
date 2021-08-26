@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>GRTMeasurement.qml</file>
     </qresource>
+    <qresource prefix="/imports"/>
 </RCC>
